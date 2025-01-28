@@ -11,9 +11,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnGrilo&radius=20&theme=nord&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
-</div>
 
 ###
 
